@@ -1,0 +1,562 @@
+Year,Agency,Mission_Name,Mission_Type,Rocket,Success,Distance_km,Cost_Million_USD
+2000,Roscosmos,Mission-1860,Mars,Starship,Success,133224438,516
+2000,CNSA,Mission-5426,Mars,Starship,Success,76737783,180
+2000,JAXA,Mission-1769,Deep Space,Long March 5,Success,244061775,1234
+2000,Roscosmos,Mission-4385,Crewed Mission,New Shepard,Success,177078208,524
+2000,SpaceX,Mission-3558,Lunar,Starship,Success,499770719,1856
+2000,JAXA,Mission-3734,Crewed Mission,Soyuz,Success,464848515,1578
+2000,SpaceX,Mission-4556,Mars,H-IIA,Success,279394870,2485
+2000,NASA,Mission-9433,Lunar,Falcon 9,Success,454810897,1413
+2000,Roscosmos,Mission-6486,Deep Space,H-IIA,Success,357319831,4064
+2000,SpaceX,Mission-4152,Deep Space,GSLV Mk III,Success,265047441,1071
+2000,JAXA,Mission-4843,Crewed Mission,New Shepard,Failure,107945065,211
+2000,ISRO,Mission-1995,Crewed Mission,H-IIA,Failure,380072791,3848
+2000,Roscosmos,Mission-2016,Crewed Mission,Starship,Success,91693793,928
+2000,ESA,Mission-5887,Lunar,Falcon 9,Success,183378699,542
+2000,NASA,Mission-6276,Satellite Launch,Falcon 9,Success,207883160,2077
+2000,Blue Origin,Mission-6258,Mars,Falcon 9,Success,172553010,4524
+2000,ESA,Mission-4561,Lunar,Falcon 9,Failure,429662808,4925
+2000,ISRO,Mission-4104,Crewed Mission,Starship,Success,392121403,2823
+2000,SpaceX,Mission-6056,Mars,New Shepard,Failure,424832018,3890
+2000,ESA,Mission-8385,Crewed Mission,H-IIA,Success,367919710,1534
+2000,SpaceX,Mission-1863,Orbital,Ariane 5,Success,302864659,1807
+2001,CNSA,Mission-7374,Satellite Launch,H-IIA,Success,445810099,1772
+2001,SpaceX,Mission-4157,Deep Space,GSLV Mk III,Success,195995597,3110
+2001,JAXA,Mission-4627,Deep Space,Long March 5,Success,319309839,1579
+2001,CNSA,Mission-6592,Crewed Mission,Falcon 9,Success,97453738,4079
+2001,NASA,Mission-6864,Mars,H-IIA,Success,146413354,4794
+2001,JAXA,Mission-4748,Orbital,Soyuz,Success,291670366,3495
+2001,Blue Origin,Mission-2495,Orbital,Ariane 5,Success,415676288,4709
+2001,Roscosmos,Mission-4581,Lunar,Soyuz,Success,149639168,3049
+2001,NASA,Mission-1698,Orbital,GSLV Mk III,Success,221099973,904
+2001,ESA,Mission-6855,Orbital,Falcon 9,Success,85448209,1757
+2001,ISRO,Mission-6791,Crewed Mission,Starship,Success,347262790,252
+2001,Blue Origin,Mission-5218,Orbital,H-IIA,Success,409313492,2981
+2001,ISRO,Mission-1197,Crewed Mission,Soyuz,Success,207641119,658
+2001,NASA,Mission-5282,Crewed Mission,Starship,Success,390382627,2861
+2001,SpaceX,Mission-7546,Lunar,Soyuz,Success,423767587,2961
+2001,CNSA,Mission-2843,Orbital,Falcon 9,Success,76241846,2435
+2001,Blue Origin,Mission-5736,Mars,Ariane 5,Success,361085249,4111
+2001,ISRO,Mission-1262,Deep Space,Starship,Success,237086088,3693
+2001,NASA,Mission-3049,Orbital,Starship,Failure,250368852,3158
+2002,CNSA,Mission-8400,Mars,Soyuz,Success,94963218,4549
+2002,Blue Origin,Mission-7197,Orbital,Starship,Success,260425728,1495
+2002,Blue Origin,Mission-9445,Mars,Starship,Success,165364210,2250
+2002,ESA,Mission-3961,Crewed Mission,GSLV Mk III,Success,315354674,3841
+2002,ESA,Mission-9352,Deep Space,Falcon 9,Success,231167167,4037
+2002,Blue Origin,Mission-7015,Mars,Falcon 9,Success,182709311,4605
+2002,SpaceX,Mission-9050,Crewed Mission,H-IIA,Success,385992749,3486
+2002,SpaceX,Mission-6895,Mars,Soyuz,Success,11326637,1009
+2002,NASA,Mission-8996,Mars,Ariane 5,Success,87928256,66
+2002,Roscosmos,Mission-3205,Satellite Launch,Long March 5,Failure,66386040,1110
+2002,Blue Origin,Mission-4420,Orbital,Long March 5,Failure,380620274,749
+2002,NASA,Mission-1190,Satellite Launch,New Shepard,Success,79349296,3377
+2002,SpaceX,Mission-9319,Lunar,Falcon 9,Success,404642757,619
+2002,SpaceX,Mission-2895,Crewed Mission,Starship,Success,198185278,2951
+2002,CNSA,Mission-4009,Mars,GSLV Mk III,Success,497222816,3225
+2002,NASA,Mission-8560,Mars,Long March 5,Success,187225964,2856
+2002,ISRO,Mission-6986,Lunar,Falcon 9,Success,350444747,3000
+2002,NASA,Mission-5780,Deep Space,Falcon 9,Success,93561213,4545
+2002,JAXA,Mission-7002,Deep Space,GSLV Mk III,Success,336211046,2032
+2002,JAXA,Mission-5146,Orbital,GSLV Mk III,Success,156943884,1765
+2002,ISRO,Mission-4854,Crewed Mission,Soyuz,Success,95534448,3174
+2002,Roscosmos,Mission-4051,Deep Space,New Shepard,Success,395236501,926
+2002,Blue Origin,Mission-8027,Crewed Mission,H-IIA,Success,57351479,4414
+2002,ISRO,Mission-1635,Lunar,Long March 5,Success,102310407,880
+2002,SpaceX,Mission-6177,Lunar,New Shepard,Success,347347149,2888
+2003,NASA,Mission-2931,Satellite Launch,Falcon 9,Success,135021456,2899
+2003,Blue Origin,Mission-8805,Crewed Mission,Starship,Success,256040572,3393
+2003,ESA,Mission-5070,Satellite Launch,Long March 5,Success,204939602,3197
+2003,ISRO,Mission-2679,Mars,New Shepard,Success,394620588,4095
+2003,Roscosmos,Mission-6188,Orbital,Long March 5,Success,337833347,4598
+2003,Roscosmos,Mission-7617,Satellite Launch,H-IIA,Success,385146509,1807
+2003,ESA,Mission-6881,Lunar,Long March 5,Success,194579633,3301
+2003,CNSA,Mission-7905,Mars,GSLV Mk III,Success,169125255,1398
+2003,ESA,Mission-5611,Lunar,Falcon 9,Success,48978479,3596
+2003,Roscosmos,Mission-2687,Deep Space,GSLV Mk III,Success,15034288,4050
+2003,ESA,Mission-3738,Mars,New Shepard,Success,302481360,3963
+2003,SpaceX,Mission-8723,Satellite Launch,New Shepard,Success,9703101,4019
+2003,ESA,Mission-9945,Mars,H-IIA,Success,296248471,1675
+2003,JAXA,Mission-1417,Mars,Falcon 9,Success,291587273,1566
+2003,SpaceX,Mission-1412,Deep Space,Falcon 9,Success,137587848,725
+2003,ISRO,Mission-6988,Orbital,Starship,Success,496091200,1172
+2003,Blue Origin,Mission-2571,Lunar,Falcon 9,Success,389998631,4182
+2003,Roscosmos,Mission-4440,Satellite Launch,H-IIA,Success,442914040,4002
+2003,JAXA,Mission-9787,Orbital,Long March 5,Success,429432226,445
+2003,ESA,Mission-8400,Mars,Ariane 5,Success,351332523,767
+2003,CNSA,Mission-5946,Lunar,H-IIA,Success,393866708,4541
+2003,NASA,Mission-6588,Deep Space,New Shepard,Success,170159048,1112
+2003,ESA,Mission-8860,Lunar,GSLV Mk III,Success,212725358,4779
+2003,ESA,Mission-8330,Satellite Launch,Soyuz,Success,402232446,1003
+2003,Roscosmos,Mission-8056,Satellite Launch,Long March 5,Success,326285340,1241
+2003,ISRO,Mission-7938,Lunar,GSLV Mk III,Success,364375604,2436
+2003,Blue Origin,Mission-2365,Deep Space,Falcon 9,Failure,476746344,1374
+2003,Roscosmos,Mission-4141,Deep Space,H-IIA,Success,12831995,2264
+2003,SpaceX,Mission-9905,Lunar,Soyuz,Success,15815228,4798
+2004,Roscosmos,Mission-4709,Lunar,Ariane 5,Success,312632590,1434
+2004,CNSA,Mission-4072,Mars,New Shepard,Success,108331912,1264
+2004,Roscosmos,Mission-8576,Orbital,Long March 5,Success,223807945,3677
+2004,ESA,Mission-7316,Satellite Launch,H-IIA,Success,118975749,3334
+2004,SpaceX,Mission-6348,Deep Space,Soyuz,Success,323989320,1306
+2004,NASA,Mission-6645,Orbital,New Shepard,Success,39521938,2753
+2004,CNSA,Mission-9120,Mars,Ariane 5,Failure,248523935,407
+2004,Roscosmos,Mission-8575,Deep Space,New Shepard,Success,271103723,4235
+2004,Blue Origin,Mission-3745,Deep Space,GSLV Mk III,Success,473928948,4186
+2004,Roscosmos,Mission-4775,Mars,Long March 5,Success,127833688,2558
+2004,Roscosmos,Mission-1924,Satellite Launch,Long March 5,Success,281457429,305
+2004,ESA,Mission-2838,Orbital,GSLV Mk III,Success,7136429,1065
+2004,NASA,Mission-3193,Orbital,Soyuz,Success,25301454,3975
+2004,SpaceX,Mission-7938,Orbital,New Shepard,Success,158149112,560
+2004,NASA,Mission-1404,Crewed Mission,Ariane 5,Success,163921042,1510
+2004,CNSA,Mission-8140,Satellite Launch,New Shepard,Success,12243426,2098
+2005,ESA,Mission-1716,Deep Space,Long March 5,Success,30061431,1873
+2005,ISRO,Mission-4419,Lunar,GSLV Mk III,Success,95857157,820
+2005,SpaceX,Mission-5363,Orbital,Long March 5,Failure,379710829,4908
+2005,NASA,Mission-7544,Satellite Launch,New Shepard,Success,236415450,4580
+2005,CNSA,Mission-7881,Crewed Mission,GSLV Mk III,Success,74063021,1408
+2005,SpaceX,Mission-2331,Orbital,Long March 5,Success,152348382,4687
+2005,CNSA,Mission-4177,Mars,Falcon 9,Failure,94805267,187
+2005,Blue Origin,Mission-4472,Lunar,Falcon 9,Success,361360743,4214
+2005,ISRO,Mission-8941,Satellite Launch,GSLV Mk III,Success,36081786,4188
+2005,Blue Origin,Mission-2906,Orbital,H-IIA,Success,115546606,3495
+2005,Blue Origin,Mission-8687,Deep Space,Starship,Success,157459112,3316
+2005,Blue Origin,Mission-4266,Mars,New Shepard,Failure,437809612,3172
+2005,SpaceX,Mission-8956,Satellite Launch,GSLV Mk III,Success,223383756,573
+2005,ISRO,Mission-3593,Orbital,Long March 5,Success,307446058,2346
+2005,CNSA,Mission-6240,Crewed Mission,H-IIA,Success,137343482,2928
+2005,Blue Origin,Mission-4644,Orbital,GSLV Mk III,Success,362998167,4770
+2005,SpaceX,Mission-2276,Deep Space,H-IIA,Success,210633159,4871
+2006,ISRO,Mission-9150,Crewed Mission,Starship,Success,267754537,4671
+2006,SpaceX,Mission-6126,Mars,H-IIA,Success,137926782,1581
+2006,ESA,Mission-4345,Lunar,Long March 5,Success,450410063,4630
+2006,Roscosmos,Mission-9905,Orbital,Falcon 9,Success,332849001,175
+2006,Roscosmos,Mission-5632,Orbital,New Shepard,Success,232368083,116
+2006,NASA,Mission-7371,Crewed Mission,GSLV Mk III,Success,371667255,2522
+2006,ESA,Mission-3739,Lunar,Starship,Success,455682375,2412
+2006,ESA,Mission-4812,Orbital,Falcon 9,Success,430926500,1783
+2006,JAXA,Mission-6622,Deep Space,Long March 5,Success,150733005,2447
+2006,CNSA,Mission-4735,Orbital,H-IIA,Success,78351278,1113
+2006,ESA,Mission-6342,Crewed Mission,GSLV Mk III,Success,182088154,53
+2006,CNSA,Mission-9837,Crewed Mission,Falcon 9,Success,420460917,4339
+2006,CNSA,Mission-7316,Deep Space,New Shepard,Success,316450309,1860
+2006,Roscosmos,Mission-1224,Deep Space,Falcon 9,Success,353175952,4799
+2006,Blue Origin,Mission-2828,Crewed Mission,Soyuz,Failure,303406300,2076
+2006,SpaceX,Mission-4744,Crewed Mission,GSLV Mk III,Success,208749204,1723
+2006,Roscosmos,Mission-8041,Satellite Launch,Starship,Success,19931856,1392
+2006,ESA,Mission-3832,Orbital,Soyuz,Success,455704501,2088
+2006,SpaceX,Mission-8984,Satellite Launch,Long March 5,Success,143960385,4479
+2006,ESA,Mission-9567,Mars,Falcon 9,Success,18162034,1620
+2006,NASA,Mission-6415,Crewed Mission,Ariane 5,Success,63447255,3900
+2006,NASA,Mission-7413,Deep Space,Long March 5,Success,263732788,2948
+2006,SpaceX,Mission-1077,Lunar,Long March 5,Success,9451644,1115
+2006,NASA,Mission-7943,Mars,New Shepard,Success,273781710,2240
+2006,NASA,Mission-3712,Orbital,Falcon 9,Success,136827217,2047
+2006,ESA,Mission-4687,Mars,H-IIA,Success,278452245,2676
+2006,CNSA,Mission-2202,Lunar,Starship,Success,15587326,2085
+2006,JAXA,Mission-1922,Deep Space,New Shepard,Success,265094640,3118
+2007,SpaceX,Mission-1950,Orbital,Long March 5,Success,382527697,4662
+2007,SpaceX,Mission-2865,Orbital,Long March 5,Success,475160110,4960
+2007,Roscosmos,Mission-7359,Deep Space,Starship,Success,171200535,3278
+2007,CNSA,Mission-3371,Deep Space,New Shepard,Success,69353966,2724
+2007,SpaceX,Mission-1793,Mars,Soyuz,Success,243085722,3375
+2007,ISRO,Mission-7166,Lunar,Long March 5,Success,158280297,2238
+2007,Blue Origin,Mission-1984,Orbital,H-IIA,Success,399273018,3581
+2007,Roscosmos,Mission-5451,Deep Space,New Shepard,Failure,353212631,176
+2007,ISRO,Mission-9795,Lunar,Falcon 9,Success,478649772,3583
+2007,Blue Origin,Mission-4368,Crewed Mission,Soyuz,Success,486354109,3526
+2007,ISRO,Mission-2645,Deep Space,Long March 5,Success,352816528,1904
+2007,JAXA,Mission-5662,Mars,Starship,Success,18493246,1382
+2007,NASA,Mission-9393,Deep Space,Falcon 9,Success,358626616,624
+2007,Roscosmos,Mission-1536,Lunar,Soyuz,Failure,389554454,3331
+2007,SpaceX,Mission-9609,Mars,Falcon 9,Success,141075786,4908
+2007,SpaceX,Mission-2205,Orbital,H-IIA,Success,145510276,4430
+2007,CNSA,Mission-5757,Lunar,Ariane 5,Success,65170880,1016
+2007,NASA,Mission-4432,Orbital,Ariane 5,Success,366574443,1774
+2007,Blue Origin,Mission-7704,Orbital,Starship,Success,222432066,1001
+2008,JAXA,Mission-3079,Crewed Mission,New Shepard,Success,11708268,335
+2008,Blue Origin,Mission-8186,Lunar,Falcon 9,Success,336248382,3107
+2008,ISRO,Mission-7645,Deep Space,Falcon 9,Success,256153653,996
+2008,CNSA,Mission-7016,Satellite Launch,H-IIA,Failure,95786137,1531
+2008,SpaceX,Mission-7305,Deep Space,Falcon 9,Success,133799787,1873
+2008,ISRO,Mission-4462,Satellite Launch,Starship,Success,416492678,2540
+2008,CNSA,Mission-9519,Crewed Mission,Falcon 9,Success,229972946,3725
+2008,CNSA,Mission-8970,Crewed Mission,Starship,Success,344542074,4033
+2008,Roscosmos,Mission-6619,Satellite Launch,Long March 5,Success,185318510,872
+2008,Blue Origin,Mission-7150,Lunar,H-IIA,Success,421457380,4292
+2008,Blue Origin,Mission-4452,Mars,Ariane 5,Success,339071457,563
+2008,NASA,Mission-7852,Deep Space,Soyuz,Success,20154129,4852
+2008,CNSA,Mission-5491,Deep Space,New Shepard,Success,102368911,3627
+2008,JAXA,Mission-2387,Orbital,GSLV Mk III,Success,474024394,4273
+2008,Blue Origin,Mission-3768,Lunar,Soyuz,Success,178817975,4083
+2008,ESA,Mission-2304,Orbital,Long March 5,Success,200592253,2101
+2008,ISRO,Mission-9633,Satellite Launch,New Shepard,Success,249898164,124
+2009,ISRO,Mission-6475,Orbital,Long March 5,Success,129914932,4733
+2009,CNSA,Mission-9041,Crewed Mission,New Shepard,Success,70860462,695
+2009,SpaceX,Mission-5263,Lunar,Ariane 5,Success,216343382,3003
+2009,ESA,Mission-3969,Satellite Launch,Ariane 5,Success,202018749,4275
+2009,Roscosmos,Mission-6941,Mars,Falcon 9,Success,443035315,4939
+2009,ESA,Mission-9340,Mars,Starship,Success,174005299,1186
+2009,SpaceX,Mission-2333,Lunar,H-IIA,Success,265557125,4551
+2009,ESA,Mission-8479,Orbital,GSLV Mk III,Success,52674083,1812
+2009,Roscosmos,Mission-8101,Mars,New Shepard,Success,89817641,1574
+2009,NASA,Mission-3343,Orbital,Falcon 9,Success,272311610,1689
+2009,ISRO,Mission-8970,Mars,GSLV Mk III,Success,299344443,1508
+2009,JAXA,Mission-5197,Lunar,Ariane 5,Success,393342395,4140
+2009,NASA,Mission-4004,Orbital,GSLV Mk III,Success,91486080,4157
+2009,JAXA,Mission-9407,Mars,Starship,Success,38809056,1800
+2009,ESA,Mission-3421,Crewed Mission,Starship,Success,491451880,3776
+2009,SpaceX,Mission-4993,Orbital,New Shepard,Success,189689519,4923
+2009,Blue Origin,Mission-5806,Orbital,H-IIA,Success,421809637,4395
+2009,CNSA,Mission-5430,Satellite Launch,H-IIA,Success,212155455,1571
+2009,SpaceX,Mission-2500,Lunar,H-IIA,Success,406086966,3092
+2009,ISRO,Mission-2466,Lunar,H-IIA,Success,413476398,3273
+2010,Roscosmos,Mission-8980,Lunar,Soyuz,Success,386010423,4328
+2010,CNSA,Mission-9230,Orbital,Ariane 5,Success,295290152,2819
+2010,NASA,Mission-9684,Lunar,Ariane 5,Success,104800966,788
+2010,ISRO,Mission-1545,Crewed Mission,Soyuz,Success,124284444,3860
+2010,SpaceX,Mission-8206,Crewed Mission,Ariane 5,Success,380291456,4622
+2010,JAXA,Mission-9436,Deep Space,Falcon 9,Success,93145211,1312
+2010,NASA,Mission-5361,Crewed Mission,Falcon 9,Success,96719587,4534
+2010,NASA,Mission-4760,Mars,New Shepard,Success,159940653,2083
+2010,Roscosmos,Mission-1145,Crewed Mission,New Shepard,Success,76768336,2682
+2010,CNSA,Mission-9056,Deep Space,Ariane 5,Failure,206112948,2158
+2010,ESA,Mission-5805,Crewed Mission,Starship,Success,487098588,4917
+2010,SpaceX,Mission-8827,Satellite Launch,H-IIA,Success,346357378,3614
+2010,JAXA,Mission-8274,Lunar,Falcon 9,Success,263875712,2603
+2010,SpaceX,Mission-4845,Satellite Launch,New Shepard,Success,392234086,2786
+2010,NASA,Mission-2913,Orbital,New Shepard,Success,65489714,2787
+2010,ISRO,Mission-8312,Mars,Starship,Success,424418823,942
+2010,CNSA,Mission-5675,Crewed Mission,New Shepard,Success,10569720,2732
+2011,ESA,Mission-2218,Orbital,GSLV Mk III,Success,255619992,4185
+2011,NASA,Mission-1954,Lunar,Starship,Success,21828021,4022
+2011,Blue Origin,Mission-9228,Deep Space,Starship,Success,326979924,4738
+2011,ISRO,Mission-1317,Satellite Launch,Soyuz,Success,420087751,3161
+2011,ISRO,Mission-7183,Mars,New Shepard,Success,15591061,4361
+2011,SpaceX,Mission-3383,Deep Space,Falcon 9,Success,152042687,1754
+2011,ESA,Mission-1362,Satellite Launch,Falcon 9,Failure,454554355,4336
+2011,SpaceX,Mission-3469,Deep Space,H-IIA,Success,370721724,875
+2011,NASA,Mission-6150,Lunar,GSLV Mk III,Success,445067076,3791
+2011,CNSA,Mission-4998,Lunar,Ariane 5,Success,28500956,2062
+2011,Roscosmos,Mission-1294,Lunar,Starship,Success,328280106,1186
+2011,NASA,Mission-3064,Lunar,Ariane 5,Success,294976252,4820
+2011,Blue Origin,Mission-6445,Mars,Long March 5,Success,245847672,1297
+2011,ISRO,Mission-2435,Deep Space,H-IIA,Failure,440276332,327
+2011,Roscosmos,Mission-8059,Deep Space,GSLV Mk III,Failure,177715791,1090
+2011,Roscosmos,Mission-9073,Crewed Mission,Falcon 9,Success,320810503,2403
+2011,JAXA,Mission-5799,Satellite Launch,Ariane 5,Success,21845618,2478
+2011,Roscosmos,Mission-6126,Satellite Launch,Soyuz,Success,488094174,4049
+2011,SpaceX,Mission-4356,Deep Space,Falcon 9,Success,447577976,88
+2011,CNSA,Mission-3844,Satellite Launch,Soyuz,Success,353824273,3205
+2011,JAXA,Mission-6658,Mars,Falcon 9,Failure,134442823,1038
+2011,ESA,Mission-7446,Satellite Launch,Soyuz,Failure,43354146,4715
+2011,Roscosmos,Mission-1933,Lunar,New Shepard,Success,114533544,841
+2011,Roscosmos,Mission-6390,Deep Space,Starship,Success,147084747,1034
+2011,NASA,Mission-4676,Satellite Launch,Starship,Success,407091261,3683
+2011,Roscosmos,Mission-7342,Mars,New Shepard,Success,139699268,3949
+2012,SpaceX,Mission-8725,Orbital,Long March 5,Success,798368,4015
+2012,Roscosmos,Mission-2875,Deep Space,Falcon 9,Success,153869643,166
+2012,ISRO,Mission-6463,Mars,Starship,Success,49910231,3910
+2012,ISRO,Mission-2389,Crewed Mission,Starship,Success,30319720,2093
+2012,JAXA,Mission-4496,Mars,Long March 5,Success,89860024,2498
+2012,Roscosmos,Mission-4117,Crewed Mission,Long March 5,Success,412388400,763
+2012,Blue Origin,Mission-7047,Lunar,Ariane 5,Success,147069552,2898
+2012,NASA,Mission-2949,Orbital,New Shepard,Success,94160165,3224
+2012,ISRO,Mission-8014,Lunar,Long March 5,Success,306835998,3091
+2012,ISRO,Mission-9619,Orbital,Starship,Success,349935954,684
+2012,JAXA,Mission-3056,Crewed Mission,Falcon 9,Success,177366831,602
+2012,ISRO,Mission-9907,Lunar,Ariane 5,Success,384186061,4256
+2012,SpaceX,Mission-3430,Mars,Ariane 5,Success,418656021,3435
+2012,JAXA,Mission-9601,Mars,H-IIA,Success,457798905,4159
+2012,SpaceX,Mission-8179,Deep Space,New Shepard,Success,497108610,2219
+2012,SpaceX,Mission-4638,Crewed Mission,Ariane 5,Success,170504198,2406
+2012,CNSA,Mission-1306,Deep Space,GSLV Mk III,Success,121389154,711
+2012,ESA,Mission-9503,Orbital,Soyuz,Success,320157785,804
+2012,SpaceX,Mission-7236,Crewed Mission,H-IIA,Success,388490518,3938
+2012,JAXA,Mission-1158,Lunar,New Shepard,Success,16170164,4661
+2012,Roscosmos,Mission-4453,Deep Space,Ariane 5,Success,60112194,4753
+2012,NASA,Mission-7563,Lunar,New Shepard,Success,456077427,2675
+2012,CNSA,Mission-2394,Lunar,Long March 5,Success,37998610,579
+2012,Blue Origin,Mission-3958,Orbital,Soyuz,Success,130181619,4623
+2013,ISRO,Mission-1525,Crewed Mission,GSLV Mk III,Success,448330964,4055
+2013,ESA,Mission-5648,Crewed Mission,Long March 5,Success,301959166,63
+2013,Blue Origin,Mission-3278,Orbital,Ariane 5,Success,165459157,3266
+2013,SpaceX,Mission-9219,Lunar,Soyuz,Success,322939278,4605
+2013,Blue Origin,Mission-8062,Mars,GSLV Mk III,Success,192234141,2689
+2013,ISRO,Mission-6724,Lunar,Ariane 5,Success,240035472,2410
+2013,Blue Origin,Mission-8029,Deep Space,Ariane 5,Success,478468404,2784
+2013,ESA,Mission-4568,Deep Space,Starship,Success,249710869,669
+2013,SpaceX,Mission-1956,Deep Space,GSLV Mk III,Failure,133872526,1366
+2013,Roscosmos,Mission-1281,Satellite Launch,Falcon 9,Success,331567701,2582
+2013,ESA,Mission-6178,Satellite Launch,Falcon 9,Success,178554461,1085
+2013,ISRO,Mission-9467,Satellite Launch,GSLV Mk III,Failure,21217466,175
+2013,ISRO,Mission-8473,Satellite Launch,Falcon 9,Success,18144839,3299
+2013,CNSA,Mission-8595,Crewed Mission,Ariane 5,Success,33134605,4453
+2013,Blue Origin,Mission-2969,Lunar,Ariane 5,Success,407644545,1414
+2013,NASA,Mission-7812,Crewed Mission,New Shepard,Failure,22791742,3923
+2013,NASA,Mission-6238,Lunar,Soyuz,Success,347365289,3769
+2013,CNSA,Mission-1986,Orbital,Long March 5,Failure,432115088,3174
+2013,Blue Origin,Mission-9125,Deep Space,GSLV Mk III,Failure,207069525,624
+2013,NASA,Mission-8848,Orbital,Starship,Success,388616324,3280
+2013,NASA,Mission-8114,Deep Space,GSLV Mk III,Success,330855293,1717
+2014,SpaceX,Mission-4553,Lunar,New Shepard,Success,260203746,1438
+2014,SpaceX,Mission-4712,Crewed Mission,Long March 5,Success,336645220,3776
+2014,NASA,Mission-5806,Satellite Launch,Soyuz,Success,316512104,1490
+2014,NASA,Mission-9927,Orbital,Soyuz,Success,314374505,3388
+2014,SpaceX,Mission-8117,Lunar,GSLV Mk III,Success,20555154,3915
+2014,Blue Origin,Mission-3863,Lunar,Long March 5,Failure,273874540,1227
+2014,NASA,Mission-1011,Satellite Launch,GSLV Mk III,Success,144322235,2880
+2014,SpaceX,Mission-6445,Crewed Mission,GSLV Mk III,Success,91200314,1054
+2014,ESA,Mission-1406,Mars,H-IIA,Success,306146820,764
+2014,SpaceX,Mission-1140,Crewed Mission,Soyuz,Success,476190988,1013
+2014,Blue Origin,Mission-9564,Deep Space,Long March 5,Success,227744894,155
+2014,Roscosmos,Mission-7787,Lunar,Falcon 9,Success,241024750,3229
+2014,ISRO,Mission-8052,Orbital,GSLV Mk III,Success,183620935,85
+2014,Roscosmos,Mission-2798,Crewed Mission,Falcon 9,Success,113813564,2988
+2014,ESA,Mission-8285,Satellite Launch,Long March 5,Success,187878825,4666
+2014,CNSA,Mission-1009,Lunar,Falcon 9,Success,107473879,4865
+2014,NASA,Mission-4225,Mars,New Shepard,Success,459381799,3733
+2014,Roscosmos,Mission-4273,Orbital,GSLV Mk III,Success,106103129,3090
+2014,CNSA,Mission-1482,Deep Space,GSLV Mk III,Success,151862308,711
+2014,Blue Origin,Mission-3852,Mars,Ariane 5,Success,55666586,699
+2015,JAXA,Mission-2100,Satellite Launch,Falcon 9,Success,484410513,1393
+2015,SpaceX,Mission-5358,Satellite Launch,GSLV Mk III,Success,228491013,4058
+2015,NASA,Mission-7602,Deep Space,Long March 5,Success,426657385,1175
+2015,ISRO,Mission-7764,Crewed Mission,Ariane 5,Success,82424560,122
+2015,Blue Origin,Mission-6472,Mars,Long March 5,Success,298173523,1854
+2015,NASA,Mission-4713,Deep Space,New Shepard,Success,65147439,2873
+2015,JAXA,Mission-2735,Lunar,Soyuz,Success,319261452,4203
+2015,SpaceX,Mission-9533,Crewed Mission,GSLV Mk III,Failure,158223505,2711
+2015,NASA,Mission-4874,Lunar,H-IIA,Success,258309783,711
+2015,Roscosmos,Mission-4374,Orbital,H-IIA,Success,415222605,682
+2015,CNSA,Mission-4083,Orbital,Starship,Success,195206499,2612
+2015,Blue Origin,Mission-1236,Deep Space,Soyuz,Success,481810787,3993
+2015,Blue Origin,Mission-9555,Orbital,Falcon 9,Success,399128035,4087
+2015,JAXA,Mission-8121,Orbital,New Shepard,Success,137559989,1573
+2015,ISRO,Mission-4725,Deep Space,Falcon 9,Success,393739388,1651
+2015,NASA,Mission-1340,Lunar,Soyuz,Success,41765712,4980
+2015,Roscosmos,Mission-8574,Lunar,Ariane 5,Success,157901461,1492
+2015,JAXA,Mission-5437,Deep Space,New Shepard,Success,4952475,610
+2015,ISRO,Mission-9785,Satellite Launch,Soyuz,Success,139506041,183
+2015,SpaceX,Mission-8693,Orbital,H-IIA,Success,208411601,4275
+2015,SpaceX,Mission-8373,Deep Space,GSLV Mk III,Success,311302056,2035
+2015,NASA,Mission-5259,Crewed Mission,Falcon 9,Success,63608005,287
+2015,ESA,Mission-3530,Orbital,Long March 5,Success,292798231,3014
+2016,Roscosmos,Mission-1536,Deep Space,New Shepard,Success,390078639,4273
+2016,Blue Origin,Mission-9734,Crewed Mission,Ariane 5,Success,453826763,2544
+2016,JAXA,Mission-3719,Satellite Launch,Soyuz,Success,108238283,2760
+2016,SpaceX,Mission-7430,Mars,New Shepard,Success,364215449,4787
+2016,JAXA,Mission-4850,Lunar,New Shepard,Success,203388766,506
+2016,CNSA,Mission-6448,Deep Space,Long March 5,Success,226630294,449
+2016,Roscosmos,Mission-9800,Deep Space,Ariane 5,Failure,274750624,2198
+2016,CNSA,Mission-2403,Deep Space,New Shepard,Success,116142603,4567
+2016,CNSA,Mission-8857,Satellite Launch,Ariane 5,Success,124880015,2094
+2016,SpaceX,Mission-2549,Satellite Launch,New Shepard,Success,47379341,4531
+2016,JAXA,Mission-8898,Satellite Launch,Long March 5,Success,352824356,950
+2016,NASA,Mission-7356,Lunar,GSLV Mk III,Success,317210692,2435
+2016,ESA,Mission-5268,Deep Space,Falcon 9,Success,205984843,2492
+2016,CNSA,Mission-7036,Deep Space,Starship,Success,486367401,2607
+2016,Roscosmos,Mission-9737,Deep Space,Starship,Success,433869943,3854
+2016,Roscosmos,Mission-4493,Lunar,New Shepard,Failure,34982912,4250
+2017,Blue Origin,Mission-1392,Orbital,Falcon 9,Success,328208319,1170
+2017,ISRO,Mission-9433,Lunar,Starship,Failure,371418276,764
+2017,CNSA,Mission-1775,Mars,Long March 5,Success,489341406,3976
+2017,Blue Origin,Mission-8340,Mars,New Shepard,Success,52493136,2198
+2017,Blue Origin,Mission-5940,Orbital,H-IIA,Success,309600252,3556
+2017,Blue Origin,Mission-8650,Orbital,New Shepard,Success,54096503,3947
+2017,CNSA,Mission-1365,Deep Space,Soyuz,Failure,289117794,2596
+2017,Roscosmos,Mission-9754,Mars,GSLV Mk III,Success,151624429,2087
+2017,Blue Origin,Mission-6439,Lunar,Long March 5,Success,62954239,3341
+2017,NASA,Mission-2246,Orbital,Falcon 9,Success,346549569,1012
+2017,NASA,Mission-2827,Crewed Mission,Ariane 5,Success,81193528,4362
+2017,ISRO,Mission-5285,Lunar,GSLV Mk III,Success,183919643,819
+2017,JAXA,Mission-1780,Satellite Launch,Starship,Success,265299631,3409
+2017,Roscosmos,Mission-9714,Lunar,H-IIA,Success,423190305,2280
+2017,NASA,Mission-6784,Mars,Long March 5,Success,485072232,3747
+2018,Roscosmos,Mission-3461,Deep Space,New Shepard,Success,51217469,2210
+2018,Blue Origin,Mission-6341,Orbital,Ariane 5,Failure,9625505,2246
+2018,ESA,Mission-8165,Satellite Launch,Long March 5,Success,444489463,696
+2018,CNSA,Mission-9789,Crewed Mission,Soyuz,Success,169893099,3918
+2018,ESA,Mission-4537,Lunar,New Shepard,Success,394582851,332
+2018,ISRO,Mission-5082,Deep Space,New Shepard,Success,35154740,1774
+2018,NASA,Mission-9706,Crewed Mission,Soyuz,Success,402683309,1354
+2018,Blue Origin,Mission-4300,Lunar,GSLV Mk III,Success,435775124,564
+2018,NASA,Mission-7019,Mars,Starship,Success,139845873,3612
+2018,NASA,Mission-4081,Satellite Launch,Starship,Success,493828202,972
+2018,ISRO,Mission-3159,Satellite Launch,Falcon 9,Success,22461413,2331
+2018,ISRO,Mission-9505,Crewed Mission,Ariane 5,Success,332776861,3539
+2018,ESA,Mission-8544,Deep Space,Soyuz,Success,395010158,3945
+2018,SpaceX,Mission-2124,Lunar,Ariane 5,Success,78878227,1093
+2018,ISRO,Mission-2013,Mars,GSLV Mk III,Success,161584996,4967
+2018,Blue Origin,Mission-5966,Satellite Launch,GSLV Mk III,Success,453089427,4333
+2018,NASA,Mission-6036,Deep Space,Falcon 9,Success,455150483,3342
+2018,JAXA,Mission-4586,Satellite Launch,Starship,Success,334764931,2997
+2018,Blue Origin,Mission-1161,Crewed Mission,GSLV Mk III,Success,98496075,4205
+2018,SpaceX,Mission-4390,Crewed Mission,Soyuz,Success,361801212,591
+2019,JAXA,Mission-1867,Mars,Starship,Success,335835718,1256
+2019,NASA,Mission-2169,Deep Space,Falcon 9,Success,475294858,1376
+2019,SpaceX,Mission-2019,Crewed Mission,New Shepard,Success,53916245,1333
+2019,Roscosmos,Mission-3010,Crewed Mission,H-IIA,Success,37937626,4747
+2019,Blue Origin,Mission-6624,Deep Space,New Shepard,Failure,173062290,3746
+2019,JAXA,Mission-7397,Crewed Mission,New Shepard,Success,234578314,1950
+2019,SpaceX,Mission-7900,Mars,GSLV Mk III,Success,431822121,4726
+2019,ESA,Mission-8999,Satellite Launch,Ariane 5,Success,357285337,753
+2019,ESA,Mission-4331,Crewed Mission,H-IIA,Failure,147705138,4786
+2019,Blue Origin,Mission-4384,Deep Space,Long March 5,Success,430457917,4333
+2019,NASA,Mission-8710,Deep Space,Starship,Success,57564260,1481
+2019,Roscosmos,Mission-5713,Crewed Mission,Long March 5,Success,110004550,3341
+2019,JAXA,Mission-1631,Lunar,Starship,Success,231442798,1691
+2019,NASA,Mission-1204,Crewed Mission,Ariane 5,Success,442766963,1769
+2019,SpaceX,Mission-3643,Lunar,GSLV Mk III,Success,411975588,739
+2019,NASA,Mission-1671,Mars,Ariane 5,Success,30647615,1499
+2019,ISRO,Mission-3539,Crewed Mission,Falcon 9,Success,449042852,3702
+2019,SpaceX,Mission-4670,Lunar,New Shepard,Success,381962530,420
+2019,NASA,Mission-7588,Orbital,Falcon 9,Success,430858323,944
+2019,ISRO,Mission-1597,Orbital,Falcon 9,Failure,439845836,2140
+2019,NASA,Mission-7566,Crewed Mission,Falcon 9,Success,351008085,1567
+2019,JAXA,Mission-4648,Lunar,New Shepard,Success,168311205,3187
+2019,ISRO,Mission-1097,Mars,New Shepard,Success,174322651,393
+2019,CNSA,Mission-9103,Crewed Mission,Ariane 5,Success,442647538,1777
+2020,CNSA,Mission-6055,Satellite Launch,Ariane 5,Success,36185555,2841
+2020,ESA,Mission-2749,Deep Space,Ariane 5,Success,307683084,3098
+2020,Blue Origin,Mission-3105,Deep Space,GSLV Mk III,Success,225544657,4020
+2020,Blue Origin,Mission-8264,Lunar,Ariane 5,Success,136494915,1864
+2020,NASA,Mission-3426,Lunar,Soyuz,Success,384299714,4924
+2020,Blue Origin,Mission-7411,Lunar,Starship,Success,184058731,2261
+2020,ESA,Mission-8239,Orbital,H-IIA,Success,94308989,4613
+2020,JAXA,Mission-3822,Mars,New Shepard,Failure,115554305,1948
+2020,Blue Origin,Mission-7629,Orbital,Ariane 5,Success,254369167,662
+2020,Blue Origin,Mission-1687,Mars,New Shepard,Success,495201621,1831
+2020,SpaceX,Mission-3591,Orbital,Ariane 5,Success,299217158,624
+2020,ESA,Mission-6108,Satellite Launch,Long March 5,Success,175900307,973
+2020,JAXA,Mission-2529,Mars,H-IIA,Success,265691348,1610
+2020,SpaceX,Mission-4864,Deep Space,GSLV Mk III,Success,17296781,276
+2020,ESA,Mission-1264,Deep Space,Long March 5,Success,366115426,3040
+2020,Roscosmos,Mission-3504,Satellite Launch,Starship,Success,336078354,637
+2020,Roscosmos,Mission-5079,Satellite Launch,Ariane 5,Success,432235085,1030
+2021,Roscosmos,Mission-7450,Lunar,GSLV Mk III,Success,259869350,3297
+2021,Blue Origin,Mission-7416,Satellite Launch,Ariane 5,Success,447127710,980
+2021,NASA,Mission-9915,Satellite Launch,Starship,Success,278827890,985
+2021,Blue Origin,Mission-1155,Crewed Mission,Falcon 9,Success,373839191,3880
+2021,CNSA,Mission-9831,Mars,Ariane 5,Success,388823230,4678
+2021,SpaceX,Mission-1948,Crewed Mission,Ariane 5,Failure,462839584,4696
+2021,NASA,Mission-2787,Satellite Launch,H-IIA,Success,138276976,4791
+2021,SpaceX,Mission-7362,Mars,Soyuz,Success,19340221,2647
+2021,JAXA,Mission-3659,Satellite Launch,Starship,Success,162183202,3967
+2021,SpaceX,Mission-9787,Orbital,Falcon 9,Success,116716189,4299
+2021,JAXA,Mission-2750,Crewed Mission,Starship,Success,419946493,2996
+2021,ISRO,Mission-6394,Orbital,Ariane 5,Success,377142998,3839
+2021,CNSA,Mission-2531,Mars,H-IIA,Success,401335815,983
+2021,ESA,Mission-3723,Orbital,Long March 5,Success,288496688,3497
+2021,Roscosmos,Mission-2762,Orbital,Soyuz,Success,424378808,117
+2021,Roscosmos,Mission-8804,Crewed Mission,Long March 5,Success,259116558,4840
+2021,Blue Origin,Mission-3524,Crewed Mission,Falcon 9,Success,232712859,828
+2022,ISRO,Mission-2492,Satellite Launch,New Shepard,Success,408989940,2036
+2022,Roscosmos,Mission-8156,Satellite Launch,Falcon 9,Failure,189839059,1108
+2022,NASA,Mission-5577,Orbital,Starship,Success,238059326,1497
+2022,Roscosmos,Mission-7581,Deep Space,Long March 5,Success,437758200,4804
+2022,ISRO,Mission-7748,Crewed Mission,Starship,Failure,301705141,4650
+2022,ESA,Mission-2846,Deep Space,Ariane 5,Success,157841883,628
+2022,JAXA,Mission-1193,Lunar,Soyuz,Success,26912912,1160
+2022,JAXA,Mission-8429,Crewed Mission,Falcon 9,Success,170793932,4925
+2022,JAXA,Mission-9921,Mars,Starship,Success,406483705,4586
+2022,ESA,Mission-3800,Mars,Starship,Success,311248703,4846
+2022,JAXA,Mission-2325,Orbital,Long March 5,Success,403403555,4747
+2022,CNSA,Mission-1340,Satellite Launch,Falcon 9,Success,93617145,2479
+2022,NASA,Mission-2800,Satellite Launch,Falcon 9,Success,488932583,1862
+2022,SpaceX,Mission-1182,Orbital,H-IIA,Success,331824282,1567
+2022,SpaceX,Mission-6002,Satellite Launch,H-IIA,Success,84078992,3289
+2022,Roscosmos,Mission-9210,Deep Space,Starship,Failure,382392708,1182
+2022,Roscosmos,Mission-7588,Orbital,New Shepard,Success,339445099,3371
+2022,ESA,Mission-5615,Orbital,Soyuz,Success,397594669,3102
+2022,CNSA,Mission-1726,Orbital,H-IIA,Success,28751905,4083
+2022,Roscosmos,Mission-1989,Orbital,H-IIA,Success,396360564,1824
+2022,Roscosmos,Mission-1935,Deep Space,Falcon 9,Success,344370953,2752
+2022,NASA,Mission-6889,Satellite Launch,Falcon 9,Success,56002754,1916
+2022,ESA,Mission-5658,Crewed Mission,Falcon 9,Success,201213074,3205
+2022,JAXA,Mission-2628,Crewed Mission,Soyuz,Success,73603767,4058
+2022,JAXA,Mission-3466,Mars,Falcon 9,Success,104663390,1286
+2022,JAXA,Mission-5318,Orbital,H-IIA,Success,289414837,1869
+2022,ESA,Mission-2130,Lunar,Ariane 5,Success,109011718,2170
+2022,ESA,Mission-4259,Deep Space,GSLV Mk III,Success,322652754,3293
+2023,NASA,Mission-4134,Mars,Starship,Success,434110664,1191
+2023,Roscosmos,Mission-5000,Lunar,Starship,Success,89080214,3317
+2023,ESA,Mission-5928,Orbital,H-IIA,Success,109297708,3323
+2023,Roscosmos,Mission-1913,Deep Space,Soyuz,Success,308000622,3596
+2023,JAXA,Mission-2829,Satellite Launch,Starship,Success,398970883,1513
+2023,Roscosmos,Mission-2054,Deep Space,Falcon 9,Success,474979540,1449
+2023,Blue Origin,Mission-1442,Mars,Soyuz,Success,426500137,1228
+2023,JAXA,Mission-5458,Mars,GSLV Mk III,Success,271469205,960
+2023,ESA,Mission-5009,Satellite Launch,GSLV Mk III,Success,347544121,173
+2023,ESA,Mission-7789,Deep Space,GSLV Mk III,Success,468208384,846
+2023,ESA,Mission-5154,Crewed Mission,Ariane 5,Success,411209839,1351
+2023,Roscosmos,Mission-4236,Orbital,Falcon 9,Success,186131196,4966
+2023,SpaceX,Mission-1946,Mars,GSLV Mk III,Success,360836604,4907
+2023,NASA,Mission-1340,Crewed Mission,H-IIA,Success,392635067,188
+2023,CNSA,Mission-5931,Mars,Falcon 9,Success,60974759,1184
+2023,ISRO,Mission-7652,Orbital,Soyuz,Success,325658213,3785
+2023,ISRO,Mission-3834,Satellite Launch,H-IIA,Success,169477803,706
+2023,ESA,Mission-4730,Mars,New Shepard,Success,444360901,1758
+2023,CNSA,Mission-4211,Crewed Mission,New Shepard,Success,211838838,525
+2023,ESA,Mission-2207,Deep Space,Falcon 9,Success,296533915,932
+2023,SpaceX,Mission-5761,Deep Space,Ariane 5,Success,381099406,4840
+2023,ISRO,Mission-6347,Crewed Mission,Soyuz,Success,50673255,2504
+2023,CNSA,Mission-2946,Mars,Starship,Success,331911297,3586
+2023,SpaceX,Mission-7068,Crewed Mission,Soyuz,Success,332941634,3872
+2023,Roscosmos,Mission-1364,Mars,Starship,Failure,255428823,165
+2023,ESA,Mission-9016,Orbital,Falcon 9,Success,495563991,2540
+2023,ESA,Mission-8661,Satellite Launch,H-IIA,Success,54101505,2577
+2023,JAXA,Mission-4420,Crewed Mission,Soyuz,Success,116935961,2417
+2023,JAXA,Mission-1276,Deep Space,GSLV Mk III,Success,464076722,745
+2024,NASA,Mission-8901,Mars,Soyuz,Success,337023488,3609
+2024,CNSA,Mission-9733,Mars,Falcon 9,Success,33957812,3008
+2024,ESA,Mission-5236,Satellite Launch,Ariane 5,Success,69217806,306
+2024,Roscosmos,Mission-4175,Orbital,GSLV Mk III,Success,139771663,463
+2024,CNSA,Mission-2381,Mars,Soyuz,Success,30450973,237
+2024,ESA,Mission-6409,Satellite Launch,New Shepard,Success,212883359,2472
+2024,ISRO,Mission-8913,Deep Space,Starship,Success,86743761,4595
+2024,ISRO,Mission-3555,Lunar,H-IIA,Success,182601318,1023
+2024,Blue Origin,Mission-4965,Mars,Long March 5,Success,435668932,3928
+2024,NASA,Mission-6789,Satellite Launch,New Shepard,Success,463058372,3908
+2024,NASA,Mission-1182,Crewed Mission,GSLV Mk III,Success,234751941,1637
+2024,Roscosmos,Mission-1159,Lunar,Long March 5,Success,470958333,1061
+2024,ESA,Mission-7846,Deep Space,New Shepard,Failure,410836119,1085
+2024,CNSA,Mission-7046,Crewed Mission,GSLV Mk III,Success,19575537,1314
+2024,ISRO,Mission-2884,Lunar,GSLV Mk III,Success,352086709,3464
+2024,Blue Origin,Mission-7056,Crewed Mission,New Shepard,Failure,355260623,717
+2024,SpaceX,Mission-5728,Orbital,Soyuz,Success,398194986,4573
+2024,Roscosmos,Mission-3224,Crewed Mission,Starship,Failure,215350338,3542
+2024,NASA,Mission-9662,Lunar,New Shepard,Success,33122666,3850
+2024,Blue Origin,Mission-8094,Lunar,H-IIA,Success,378155300,284
+2024,ESA,Mission-4607,Deep Space,Soyuz,Failure,333034302,4938
+2024,JAXA,Mission-6832,Satellite Launch,Ariane 5,Success,82245659,1366
+2024,ISRO,Mission-2124,Crewed Mission,Starship,Success,497444239,1428
+2024,CNSA,Mission-2519,Lunar,Starship,Success,12375288,941
+2024,CNSA,Mission-5072,Satellite Launch,GSLV Mk III,Success,175224307,2128
+2024,ISRO,Mission-5424,Crewed Mission,Soyuz,Success,97552741,2066
+2024,Roscosmos,Mission-2772,Lunar,Falcon 9,Success,114417302,989
+2024,ESA,Mission-1539,Crewed Mission,Long March 5,Success,366538660,3373
+2025,SpaceX,Mission-2548,Orbital,Falcon 9,Success,68126745,2150
+2025,ISRO,Mission-4748,Crewed Mission,Starship,Success,362422496,4543
+2025,ISRO,Mission-1674,Orbital,Soyuz,Success,132876704,3901
+2025,JAXA,Mission-5979,Satellite Launch,Soyuz,Success,178915081,3309
+2025,ISRO,Mission-4923,Deep Space,Starship,Success,91466231,3725
+2025,ISRO,Mission-7091,Mars,Long March 5,Success,86579274,2272
+2025,JAXA,Mission-3792,Lunar,New Shepard,Success,75387247,1574
+2025,NASA,Mission-9224,Lunar,H-IIA,Success,303438235,769
+2025,SpaceX,Mission-7516,Deep Space,New Shepard,Failure,416873470,4452
+2025,NASA,Mission-3207,Mars,Starship,Success,130464872,3625
+2025,Blue Origin,Mission-9835,Mars,New Shepard,Success,443635313,3326
+2025,CNSA,Mission-6243,Deep Space,GSLV Mk III,Success,494818807,442
+2025,CNSA,Mission-7683,Crewed Mission,Falcon 9,Success,432190953,3320
+2025,ISRO,Mission-1025,Orbital,GSLV Mk III,Success,112688866,510
+2025,ESA,Mission-7599,Deep Space,H-IIA,Success,76532058,540
+2025,NASA,Mission-2072,Deep Space,Long March 5,Success,407971915,1642
+2025,CNSA,Mission-9350,Orbital,Long March 5,Success,95791232,2102
+2025,Roscosmos,Mission-6939,Orbital,Soyuz,Success,174557232,3043
+2025,JAXA,Mission-2946,Lunar,H-IIA,Success,318133769,2550
+2025,JAXA,Mission-3645,Crewed Mission,GSLV Mk III,Success,237546173,1982
+2025,CNSA,Mission-2757,Mars,Long March 5,Success,456698775,3549
+2025,ESA,Mission-9811,Orbital,Falcon 9,Failure,185297628,1596
+2025,CNSA,Mission-3743,Mars,GSLV Mk III,Success,404231899,406
+2025,NASA,Mission-8186,Crewed Mission,Long March 5,Success,60946197,1333
+2025,Roscosmos,Mission-1882,Satellite Launch,Soyuz,Success,314869408,4764
