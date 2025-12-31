@@ -59,3 +59,17 @@ This dashboard is designed with a **premium space-themed background**, clean whi
 ├── space_missions_2000_2025.csv        # Dataset used for analysis
 ├── space_missions_2000_2025.png        # Dashboard preview image
 ├── README.md                           # Project documentation
+
+```
+---
+
+## 👩‍💻 Author
+
+**Darpana Chauhan**  
+Aspiring Data Scientist | BCA Student  
+GitHub: https://github.com/darpana-chauhan
+
+---
+
+⭐ *If you find this project useful, feel free to star the repository!*
+
